@@ -1,0 +1,2 @@
+include ':tess-two'
+rootProject.name = 'root'
