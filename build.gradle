@@ -2,8 +2,8 @@
 buildscript {
     ext {
         sdk_version     = 23
-        build_tools     = "23.0.2"
-        gradle_plugin   = "2.0.0-alpha2"
+        build_tools     = "23.0.3"
+        gradle_plugin   = "2.1.0"
     }
     repositories {
         jcenter()
